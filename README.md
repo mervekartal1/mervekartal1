@@ -60,13 +60,6 @@ My interests lie at the intersection of **Statistics, Data Science, and Machine 
 - Applying statistical methods to real-world datasets.
 - Developing end-to-end Data Science projects.
 
----
-
-### 📂 Featured Projects
-
-I'm working towards building a portfolio of practical projects in Statistics and Data Science.
-
-*More projects coming soon!*
 
 ---
 
