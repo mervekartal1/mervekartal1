@@ -88,19 +88,10 @@ I'm working towards building a portfolio of practical projects in Statistics and
 I'm always open to connecting with people interested in Statistics, Data Science, Machine Learning and technology.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/mervekartal>
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Without data, you're just another person with an opinion."</i>
-  <br/>
-  <b>— W. Edwards Deming</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF" alt="Profile views" />
-</p>
