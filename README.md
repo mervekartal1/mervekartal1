@@ -70,28 +70,15 @@ I'm working towards building a portfolio of practical projects in Statistics and
 
 ---
 
-### 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 I'm always open to connecting with people interested in Statistics, Data Science, Machine Learning and technology.
 
 <p>
-  <a href="https://www.linkedin.com/in/mervekartal>
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <!-- Add your LinkedIn link here -->https://www.linkedin.com/in/merve-kartal-366a02387/
 </p>
 
 ---
+
+
 
